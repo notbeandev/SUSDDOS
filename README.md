@@ -13,3 +13,5 @@ Owner Server got a Attack will can make you go to jail by law.
 And we will not Clear in law reason you ddos first and you read warning
 # Warning AGAIN
 OG SRCIPT AND WE WILL NOT CLEARING IN LAW IF UR DDOS MAKE OWNER SERVER LOST SOMETHING!
+# Wait or Sus
+SUSSY-BAKA
