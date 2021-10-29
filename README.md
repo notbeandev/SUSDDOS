@@ -5,7 +5,7 @@ Using a python3! Normally Will testing with new MCTham Server
 MCTham DDos Not Making Self but will add feture ddos on one srcipt!
 Owner OG srcipt is:
 wait adding sus
-#Installing Command
+# Installing Command
 Wait SUS
 # Warning Before using!
 This can making someone server is down if using POWERFUL VPS
