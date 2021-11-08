@@ -8,7 +8,7 @@ MCTham DDos Not Making Self but will add feture ddos on one srcipt!
 * git command support
 * sh file can run!
 * if not ubuntu please want sure your linux is can use apt command and sudo!
-Owner OG srcipt is:
+# Owner OG srcipt is:
 https://github.com/Leeon123 and https://github.com/MHProDev
 # Installing Command
 git clone https://github.com/McthamRewrite/ThamDDOS && cd ThamDDOS && sh install.sh
