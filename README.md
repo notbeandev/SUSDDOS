@@ -1,8 +1,8 @@
-# ThamDDOS
-ThamDDoS will kill your. with powerful flood and more!
+# SUSDDOS
+SUSDDoS will kill your. with powerful flood and more!
 Using a python3! Normally Will testing with new MCTham Server
 # notice
-MCTham DDos Not Making Self but will add feture ddos on one srcipt!
+SUSDDos Not Making Self but will add feture ddos on one srcipt!
 # Need for before Install.
 * ubuntu 16.04 or later
 * git command support
@@ -11,7 +11,7 @@ MCTham DDos Not Making Self but will add feture ddos on one srcipt!
 # Owner OG srcipt is:
 https://github.com/Leeon123 and https://github.com/MHProDev
 # Installing Command
-git clone https://github.com/McthamRewrite/ThamDDOS && cd ThamDDOS && sh install.sh
+git clone https://github.com/McthamRewrite/SUSDDOS && cd SUSDDOS && sh install.sh
 # Notice for Termux Users!
 Wait New ADD command :D
 # How to using?
@@ -25,3 +25,5 @@ Owner Server got a Attack will can make you go to jail by law.
 And we will not Clear in law reason you ddos first and you read warning
 # Warning AGAIN
 OG SRCIPT AND WE WILL NOT CLEARING IN LAW IF UR DDOS MAKE OWNER SERVER LOST SOMETHING!
+# History
+We rename from ThamDDoS to SUSDDOS by fronnnnnnnnnnn
