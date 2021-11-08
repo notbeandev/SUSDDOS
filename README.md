@@ -3,6 +3,11 @@ ThamDDoS will kill your. with powerful flood and more!
 Using a python3! Normally Will testing with new MCTham Server
 # notice
 MCTham DDos Not Making Self but will add feture ddos on one srcipt!
+# Need for before Install.
+* ubuntu 16.04 or later
+* git command support
+* sh file can run!
+* if not ubuntu please want sure your linux is can use apt command and sudo!
 Owner OG srcipt is:
 https://github.com/Leeon123 and https://github.com/MHProDev
 # Installing Command
