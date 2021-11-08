@@ -6,7 +6,7 @@ MCTham DDos Not Making Self but will add feture ddos on one srcipt!
 Owner OG srcipt is:
 https://github.com/Leeon123 and https://github.com/MHProDev
 # Installing Command
-git clone https://github.com/McthamRewrite/ThamDDOS && cd ThamDDOS && sh ADD.sh
+git clone https://github.com/McthamRewrite/ThamDDOS && cd ThamDDOS && sh install.sh
 # Notice for Termux Users!
 Wait New ADD command :D
 # Warning Before using!
