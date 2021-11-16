@@ -24,8 +24,8 @@ echo Making to sure. you os is are here!
 echo Windows 10 1709+ or Windows server 2016 - 2019.
 echo Python3 in device!
 set /p ok=Y/N:
-if %ok% == Y goto ins
-if %ok% == N goto recom
+if %ok% == y goto ins
+if %ok% == n goto recom
 goto need
 :recom
 echo Recommend Please Windows 10 are 1709 or Higher!
