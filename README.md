@@ -19,7 +19,7 @@ git clone https://github.com/McthamRewrite/SUSDDOS && cd SUSDDOS && sh install.s
 # Windows Users:
 RUN AND CONFIRM IN CMD AND WAIT! PROGRAM WILL INSTALL IN FOLDER DOWNLOAD OR FOLDER YOU DOWNLOAD THIS FILES!
 # Notice for Termux Users!
-Wait New ADD command :D
+edit file install.sh and delete all sudo word.
 # How to using?
 go to folder ATTACK-PACK and boom select a want Folder!
 * MHDDoS - MHDDoS DDos Attack.
