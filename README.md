@@ -1,3 +1,5 @@
+# Nuh uh
+The script is already broken and out of dated, why you look at this?, some mf login back after 2 years for write this and archive this????
 # SUSDDOS
 SUSDDoS will kill your. with powerful flood and more!
 Using a python3! Normally Will testing with new MCTham Server
